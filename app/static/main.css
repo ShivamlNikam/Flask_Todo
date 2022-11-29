@@ -1,0 +1,9 @@
+body{
+	background:rgb(110, 197, 237);
+	color:rgb(251, 252, 251);
+	margin-top: 5px;
+}
+.button{
+	color:rgb(0, 0, 0);
+}
+.mark{font-size: 10px;}
